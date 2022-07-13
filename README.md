@@ -6,7 +6,7 @@ SITE Course Year: **2022**
 
 Cohort: **Course Hero**
 
-Team Member Names:**Stephane, Gikai, Kian**
+Team Member Names:** Stephane, Gikai, Kian**
 
 Mentors Names: **Insert Professional Mentor Names**
 
